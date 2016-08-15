@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Order Java Android App </string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="notify_me">Whipped Cream</string>
+    <string name="chocolate_string">Chocolate</string>
+    <string name="enter_name_string">Your name?</string>
+</resources>
